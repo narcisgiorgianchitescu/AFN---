@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.3.3\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\AFN.dir/objects.a
+C:\work\mingw\bin\ar.exe cr CMakeFiles\AFN.dir/objects.a @CMakeFiles\AFN.dir\objects1.rsp
+C:\work\mingw\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\AFN.dir/objects.a -Wl,--no-whole-archive  -o AFN.exe -Wl,--out-implib,libAFN.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AFN.dir\linklibs.rsp
