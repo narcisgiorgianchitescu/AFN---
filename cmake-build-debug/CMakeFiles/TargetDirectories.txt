@@ -1,0 +1,3 @@
+C:/Users/Narcis/CLionProjects/AFN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Narcis/CLionProjects/AFN/cmake-build-debug/CMakeFiles/AFN.dir
+C:/Users/Narcis/CLionProjects/AFN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
